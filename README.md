@@ -4,7 +4,7 @@
   <img src="https://github.com/titipata/awesome-thai-girls/raw/master/giphy.gif" width="320" />
 </div>
 
-**credit**: [giphy](http://giphy.com/gifs/HCi3s3w3PeGis)
+**credit**: (http://giphy.com/gifs/HCi3s3w3PeGis)
 **original post by**: (https://github.com/tostyle)
 A curated list of awesome Thai girls Instagram, Facebook, and other resources.
 This list is based on personal taste only. Your contributions are always welcome,
